@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/robots/static/css/main.a0d2feb1.css",
+    "main.js": "/robots/static/js/main.37ed56dc.js",
+    "static/media/MR ROBOT.woff": "/robots/static/media/MR ROBOT.ae7e35be11d8e7b07bac.woff",
+    "index.html": "/robots/index.html",
+    "main.a0d2feb1.css.map": "/robots/static/css/main.a0d2feb1.css.map",
+    "main.37ed56dc.js.map": "/robots/static/js/main.37ed56dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0d2feb1.css",
+    "static/js/main.37ed56dc.js"
+  ]
+}
